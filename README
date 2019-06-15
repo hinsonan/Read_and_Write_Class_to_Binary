@@ -1,0 +1,10 @@
+This is a simple example of how to read and write a class to binary.
+To run this program run this command
+
+g++ --std=c++11 main.cc -o run -g
+
+only use the -g argument if you want to debug and step through the process
+
+after running that command execute the program
+
+./run
